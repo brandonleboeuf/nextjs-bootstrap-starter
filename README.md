@@ -6,7 +6,7 @@ Basic starter for Next.js and Bootstrap
 
 ```npm install @popperjs/core --save```
 
-## Update
+## Change _app.js
 ```jsx
 import "bootstrap/dist/css/bootstrap.css";
 import "../styles/globals.css";
