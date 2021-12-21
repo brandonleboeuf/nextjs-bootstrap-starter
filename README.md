@@ -1,11 +1,12 @@
 ## Next.js Bootstrap
 Basic starter for Next.js and Bootstrap
 
-_Install_
+## Install
 ```npm i bootstrap```
+
 ```npm install @popperjs/core --save```
 
-_Update_
+## Update
 ```jsx
 import "bootstrap/dist/css/bootstrap.css";
 import "../styles/globals.css";
